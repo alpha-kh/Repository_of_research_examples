@@ -3,4 +3,4 @@ Here you can see a part of my python projects:
 
 | Project               | Description            | Libraries                   |
 | :-------------------- | :--------------------- |:----------------------------|
-|Path                   | blabla                 | blabla                      |
+|[Текст ссылки](адрес://ссылки.здесь "Заголовок ссылки")                | blabla                 | blabla                      |
